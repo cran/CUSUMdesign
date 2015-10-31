@@ -1,0 +1,2 @@
+useDynLib("CUSUMdesign")
+export(getARL, getH)
